@@ -34,4 +34,8 @@ JSP, Servlet을 이용한 컴퓨터공학과 게시판
 - **기능 8**: 게시글 답글 등록
   ![답글 등록](https://github.com/SeHyeonLee-dev/computer-board/assets/155310328/5610156a-1088-4d57-a45d-fb191b72d435)
 
+# 시스템 설계
+![시스템 설계](https://github.com/SeHyeonLee-dev/computer-board/assets/155310328/beb948de-c646-4587-b0a5-7efa2759d230)
 
+# 클래스 설계
+![클래스 설계](https://github.com/SeHyeonLee-dev/computer-board/assets/155310328/9558b22c-ca02-4623-b5a9-253a384d42c6)
